@@ -111,7 +111,7 @@ button img{
     display: none;
 }
 
-button:hover img{
+button:hover a img{
     transition: .5s;
     display: block;
 }
